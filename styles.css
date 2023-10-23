@@ -1,0 +1,31 @@
+body {
+    min-width: 768px; /* This line sets the minimum width */
+}
+.sidebar {
+    background-color: #2C2C2C;
+    height: 100vh;
+    color: white;
+}
+.email-list-item {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #007B8A;
+    color: white;
+    cursor: pointer;
+}
+.email-preview {
+    background-color: #007B8A;
+    color: white;
+}
+.email-header {
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+}
+.btn-email {
+    background-color: #3a3a3a;
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 100%;
+    text-align: left;
+    padding-left: 10px;
+}
